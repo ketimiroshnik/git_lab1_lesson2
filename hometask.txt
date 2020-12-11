@@ -1,1 +1,16 @@
 Сравните получившуюся ветку master и удаленную ветку demo — чем они отличаются? - Ничем не отличаются.
+
+Здесь я вижу 11 коммитов:
+add hometask
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
+
+PS После того, как я закомичу изменения в этом файле про количество коммитов, их уже станет 12, т к сейчас я добавлю коммит edit hometask
